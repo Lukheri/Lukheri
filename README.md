@@ -12,4 +12,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lukheri&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>
+  Lukheri
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 Hi! My name is Luke Heri and I am a Computer Engineering graduate from MSU - IIT and web developer with a strong foundation in programming. Experienced in object-oriented programming; developing; testing and debugging. Strong creative and analytical skills. Team player with an eye for detail.
